@@ -4,5 +4,5 @@ n = 2867
 
 # Calculamos el módulo
 resultado = (2124 * 1709) % n
-print(resultado,12345)
+print(resultado,123459009809809890)
 print("jjjjjjjjjjjjj")
